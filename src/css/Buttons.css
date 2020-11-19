@@ -1,0 +1,37 @@
+.btn_style1 {
+  text-align: center;
+  color: #fff;
+  background: #f50057;
+  width: 150px;
+  margin: 10px;
+  padding: 14px 28px;
+  border: none;
+  outline: none;
+  transition: 0.5s ease;
+  border-radius: 15px;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+.btn_style1:hover {
+  color: #fff;
+  background-color: #aa0c9d;
+}
+
+.btn_style_outlined {
+  border: 1px solid #f50057;
+  background-color: white;
+  color: #f50057;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 5px;
+  width: 150px;
+  transition: 1s ease;
+}
+
+.btn_style_outlined:hover {
+  color: #fff;
+  background-color: #aa0c9d;
+  border: 1px solid #aa0c9d;
+}
